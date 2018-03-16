@@ -1,4 +1,4 @@
-Access-Control-Allow-Origin: *
+Access-Control-Allow-Origin: https://csunderground.org/program/0000000219
 
 // Require HTTP module (to start server) and Socket.IO
 var http = require('http');
