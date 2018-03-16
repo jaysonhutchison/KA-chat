@@ -1,3 +1,5 @@
+Access-Control-Allow-Origin: *
+
 // Require HTTP module (to start server) and Socket.IO
 var http = require('http');
 var io = require('socket.io');
