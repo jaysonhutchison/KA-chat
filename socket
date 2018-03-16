@@ -30,4 +30,4 @@ socket.on('connection', function(client){
     });
 });
 
-console.log('Server running at http://127.0.0.1:' + port + '/');
+console.log('Server running at https://github.com/jaysonhutchison/KA-chat/edit/master/socket' + port + '/');
